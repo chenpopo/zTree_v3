@@ -45,4 +45,4 @@ Introduction of zTree (简介)
 * To enhance performance, zTree transforms the js & css structure to provide excellent browser compatibility and make the development more easily
 (zTree v3.x（JQuery Tree 插件），性能全面提升，js & css 架构全面调整，提供更好的兼容性和易开发性)
 
-
+非常好用的jstree插件，欢迎使用。
